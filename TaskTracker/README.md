@@ -1,4 +1,4 @@
-# TASK TRACKER
+# CLI TASK TRACKER
 
 Light, simple and easy to use it. Written in python 3 and using Sqlite3 to store data,
 this incredible project offer you an amazing CLI task tracker with just what you need.
@@ -6,7 +6,7 @@ Add, list, delete, rename and keep track of your tasks progress
 
 ## Usage
 
-To use it, just clone the repo and run /TaskTracker/TaskTracker.py
+To use it, just clone the repo and run Python/TaskTracker/TaskTracker.py
 ```
 $ git clone https://github.com/d4alencar/Python
 ```
@@ -18,7 +18,7 @@ add taskname
 ```
 
 list all tasks or by progress situation.
-this command prints task id, name, description, creation and update date, progress.
+this command prints task id, name, description, progress, creation and update date.
 ```
 list all
 list to-do
