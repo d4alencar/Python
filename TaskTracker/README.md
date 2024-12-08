@@ -27,14 +27,8 @@ list all tasks or by progress situation.
 this command prints task id, name, description, progress, creation and update date.
 ```
 list all
-```
-```
 list to-do
-```
-```
 list in-progress
-```
-```
 list done
 ```
 
