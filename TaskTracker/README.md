@@ -10,6 +10,12 @@ To use it, just clone the repo and run Python/TaskTracker/TaskTracker.py
 ```
 $ git clone https://github.com/d4alencar/Python
 ```
+```
+$ cd Python/TaskTracker
+```
+```
+$ python TaskTracker.py
+```
 ## Commands
 
 insert a new task in the database.
