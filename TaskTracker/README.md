@@ -58,5 +58,3 @@ stop the script.
 ```
 quit
 ```
-
-This project is based on the [roadmap.sh](https://roadmap.sh/projects/task-tracker) challenger.
